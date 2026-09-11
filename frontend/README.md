@@ -5,4 +5,4 @@ Aplikasi frontend Sistem Peminjaman Peralatan Laboratorium menggunakan Node.js, 
 ## Cara Menjalankan Proyek
 1. Clone repository ini:
    ```bash
-   git clone <URL_REPO_GITHUB_KAMU># SIPERALAB
+   git clone https://github.com/maelandy/SIPERALAB.git SIPERALAB
